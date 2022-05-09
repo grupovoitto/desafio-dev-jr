@@ -35,7 +35,7 @@ Também existe um teste de lógica para poder apresentar melhor seu raciocínio 
 
 Para te ajudar nesse desafio, criamos um modelo que você deve utilizar como um template do Github.
 
-O template está disponível na seguinte url: **[Acessar Template](https://github.com/Grupo-Voitto/desafio-estagio)**
+O template está disponível na seguinte url: **[Acessar Template](https://github.com/grupovoitto/desafio-dev-jr)**
 
 **Dica**: Utilize o botão 'use this template';
 
