@@ -108,7 +108,7 @@ Aqui você terá que criar um admin de alunos onde deve listar, cadastrar e excl
 
 Esse desafio deve ser entregue via email. 
 
-Envie com o assunto `Desafio Estágio TI 2022`. O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
+Envie com o assunto `Desafio Dev Jr TI 2022`. O corpo do email deve possuir o link para o seu repositório do Github contendo a solução.
 
 O prazo para resolução está no email enviado por ti@voitto.com.br.
 
